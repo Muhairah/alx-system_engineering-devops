@@ -1,2 +1,2 @@
-#!/bn/bash
-tr ' ' '\n' | sort | uniq -u
+#!/bin/bash
+sort | uniq -u
